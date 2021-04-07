@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi, I’m Kerim ( Kerim#0001 ) , developer and student.
+
+Hello **everyone**, my name is Kerim Hamadi, 
+I am a developer and code with NodeJs. 
+I specialize in Discord.js, more precisely Discord.js.
 
 <!--
 **Keriyem/keriyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
