@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Kerim ( Kerim#0001 ) , developer and student.
+### 👋 About Me
 
 Hello **everyone**, my name is Kerim Hamadi, 
 I am a developer and code with NodeJs. 
