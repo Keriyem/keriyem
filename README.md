@@ -4,6 +4,8 @@ Hello **everyone**, my name is Kerim Hamadi,
 I am a developer and code with NodeJs. 
 I specialize in Discord.js, more precisely Discord.js.
 
+📫 Contact: kerimmail@aol.com
+
 <!--
 **Keriyem/keriyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
