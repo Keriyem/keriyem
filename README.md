@@ -1,7 +1,7 @@
 ### 👋 About Me
 
 Hello **everyone**, my name is Kerim Hamadi, 
-I am a developer and code with NodeJs. 
+I am a developer and code with JavaScript. 
 I specialize in Discord.js, more precisely Discord.js.
 
 📫 Contact: kerimmail@aol.com
